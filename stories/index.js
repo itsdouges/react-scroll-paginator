@@ -2,9 +2,7 @@
 
 import React from 'react';
 import { storiesOf } from '@kadira/storybook';
-import Component from '../src/Component';
-
-import '../src/style.less';
+// import ReactScrollPaginator from '../src/ReactScrollPaginator';
 
 storiesOf('Component')
-  .add('default', () => <Component initialCount={2} />);
+  .add('default', () => <div />);

@@ -6,7 +6,7 @@
 [![codecov](https://codecov.io/gh/madou/react-scroll-paginator/branch/master/graph/badge.svg)](https://codecov.io/gh/madou/react-scroll-paginator)
 [![Dependency Status](http://img.shields.io/david/madou/react-scroll-paginator.svg?style=flat-square)](https://david-dm.org/madou/react-scroll-paginator)
 
-Quick description of what it does!
+A lightweight scroll based paginator for ReactJS.
 
 <p align="center">
   <img src="https://github.com/madou/react-scroll-paginator/blob/master/example.gif?raw=true" style="margin:0 auto" />

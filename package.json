@@ -1,7 +1,7 @@
 {
   "name": "react-scroll-paginator",
   "version": "0.0.0",
-  "description": "Project description.",
+  "description": "A lightweight scroll based paginator for ReactJS.",
   "repository": "madou/react-scroll-paginator",
   "author": "Michael Dougall",
   "license": "MIT",
@@ -26,7 +26,8 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
-    "react": "^15.5.4"
+    "react": "^15.5.4",
+    "withinviewport": "^2.0.0"
   },
   "devDependencies": {
     "@kadira/storybook": "^2.21.0",
