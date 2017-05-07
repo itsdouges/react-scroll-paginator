@@ -1,6 +1,6 @@
 {
   "name": "react-scroll-paginator",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A lightweight scroll based paginator for ReactJS.",
   "repository": "madou/react-scroll-paginator",
   "author": "Michael Dougall",
