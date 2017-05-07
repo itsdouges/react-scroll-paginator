@@ -1,28 +1,28 @@
-# [react-library-boilerplate](https://github.com/madou/react-library-boilerplate)
+# [react-scroll-paginator](https://github.com/madou/react-scroll-paginator)
 
-[![NPM version](http://img.shields.io/npm/v/react-library-boilerplate.svg?style=flat-square)](https://www.npmjs.com/package/react-library-boilerplate)
-[![NPM downloads](http://img.shields.io/npm/dm/react-library-boilerplate.svg?style=flat-square)](https://www.npmjs.com/package/react-library-boilerplate)
-[![Build Status](http://img.shields.io/travis/madou/react-library-boilerplate/master.svg?style=flat-square)](https://travis-ci.org/madou/react-library-boilerplate)
-[![codecov](https://codecov.io/gh/madou/react-library-boilerplate/branch/master/graph/badge.svg)](https://codecov.io/gh/madou/react-library-boilerplate)
-[![Dependency Status](http://img.shields.io/david/madou/react-library-boilerplate.svg?style=flat-square)](https://david-dm.org/madou/react-library-boilerplate)
+[![NPM version](http://img.shields.io/npm/v/react-scroll-paginator.svg?style=flat-square)](https://www.npmjs.com/package/react-scroll-paginator)
+[![NPM downloads](http://img.shields.io/npm/dm/react-scroll-paginator.svg?style=flat-square)](https://www.npmjs.com/package/react-scroll-paginator)
+[![Build Status](http://img.shields.io/travis/madou/react-scroll-paginator/master.svg?style=flat-square)](https://travis-ci.org/madou/react-scroll-paginator)
+[![codecov](https://codecov.io/gh/madou/react-scroll-paginator/branch/master/graph/badge.svg)](https://codecov.io/gh/madou/react-scroll-paginator)
+[![Dependency Status](http://img.shields.io/david/madou/react-scroll-paginator.svg?style=flat-square)](https://david-dm.org/madou/react-scroll-paginator)
 
 Quick description of what it does!
 
 <p align="center">
-  <img src="https://github.com/madou/react-library-boilerplate/blob/master/example.gif?raw=true" style="margin:0 auto" />
+  <img src="https://github.com/madou/react-scroll-paginator/blob/master/example.gif?raw=true" style="margin:0 auto" />
 </p>
 
 ## Installation
 
 ```sh
-npm install react-library-boilerplate
+npm install react-scroll-paginator
 ```
 
 ## Usage
 
 ```javascript
-import 'react-library-boilerplate/styles.css';
-import ReactStickyHeader from 'react-library-boilerplate';
+import 'react-scroll-paginator/styles.css';
+import ReactStickyHeader from 'react-scroll-paginator';
 import ReactDOM from 'react-dom';
 
 ReactDOM.render(

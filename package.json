@@ -1,8 +1,8 @@
 {
-  "name": "react-library-boilerplate",
+  "name": "react-scroll-paginator",
   "version": "0.0.0",
   "description": "Project description.",
-  "repository": "madou/react-library-boilerplate",
+  "repository": "madou/react-scroll-paginator",
   "author": "Michael Dougall",
   "license": "MIT",
   "keywords": [],
