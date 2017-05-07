@@ -93,9 +93,11 @@ export default class Paginator extends Component {
   }
 
   initialize = () => {
-    this.setState({
-      infiniteScroll: true,
-    });
+    if (!this.state.infiniteScroll) {
+      this.setState({
+        infiniteScroll: true,
+      });
+    }
 
     this._remove = addEvent('scroll', throttle(() => this.paginate(false), 50));
     this.paginate(true);

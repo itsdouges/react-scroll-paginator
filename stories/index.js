@@ -66,10 +66,11 @@ class View extends Component {
   state: {
     rows: Array<number>,
     count: number,
-    limit: number,
     offset: number,
   } = {
     rows: [],
+    offset: 10,
+    count: 9999,
   };
 
   props: {
@@ -104,7 +105,6 @@ class View extends Component {
           rows={this.state.rows}
           count={this.state.count}
           limit={10}
-          initialOffset={0}
           progressComponent={<div className="View_progress">LOADING...</div>}
         >
           {this.renderChild}
